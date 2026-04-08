@@ -2,3 +2,4 @@
  y=30
 
  print(x)
+print(x+y)
